@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+#marqueeStyle {
+    background: red;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    text-align: left;
+    margin-left: 0%;
+}
+
+#campus {
+    width: 100%;
+}
+
+#map1 {
+    width: 100%;
+}
